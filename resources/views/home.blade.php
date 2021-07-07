@@ -73,7 +73,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel {{ $name }} {{$lastname}}
+                    Hello Laravel, I'm {{ $name }} {{$lastname}}
                 </div>
 
               
